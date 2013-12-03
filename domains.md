@@ -1,3 +1,12 @@
+---
+layout: page
+title: Portfolio
+header: Some Stuffs
+group: navigation
+avatar: ../img/portfolio.png
+---
+
+
 **V2EX.ORG ￥600 ~ ￥1000**
 含义：溯源，Way to explore origin，向 V2EX.com 致敬
 
