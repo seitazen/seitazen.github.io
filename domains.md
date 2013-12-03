@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-header: Some Stuffs
+title: Domains on sale
+header: Domains on sale
 group: navigation
 avatar: ../img/portfolio.png
 ---
