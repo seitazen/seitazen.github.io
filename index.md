@@ -9,7 +9,7 @@ published: true
 {% include JB/setup %}
 
 <div class="bs-callout bs-callout-info">
-<h4>公告</h4><p>Jekyll 主题重构中...另有 WordPress、Typecho 主题各一正在孵化中 :D</p>
+<h4>公告</h4><p>Jekyll 主题重构中...另有 WordPress、Typecho 主题各一正在孵化中 :D 或者先看看我做的 Farbox 主题：[Sharplife](http://sharplife.seita.me)</p>
 </div>
 
 这里是 Seita 的个人网站，使用 [Jekyll Bootstrap](http://jekyllbootstrap.com) 搭建。
